@@ -1,0 +1,7366 @@
+<REAPER_PROJECT 0.1 "7.11/win64" 1714104940
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3198 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 271.95378684814858
+  ZOOM 34.25396373471771 1536 0
+  VZOOMEX 3.4625001 685
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "C:\Users\felip\OneDrive\Desktop\Twinsanity\Raw" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE "C:\Users\felip\OneDrive\Desktop\Twinsanity\Assets\TwinsanityFinal.mov"
+  RENDER_FMT 0 2 44100
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    UE1GRgMAAAACAAAAAAgAAAIAAACAAAAAgAcAADgEAAAAAPBBAQAAAF8AAAAAAA==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 51.52688353584914 53.30769934077085
+  SELECTION2 51.52688353584914 53.30769934077085
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {DB4159F9-166D-4EF9-B4D8-5CD226E38FC5}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {AA9645A9-5B5F-40F0-A02A-FCD14FA85DE8}
+    ACT 0 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {8B831F98-EBF0-41A0-8BF7-B9FFAF3D4177}
+    NAME gameplay
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.31717584477602 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 0 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {8B831F98-EBF0-41A0-8BF7-B9FFAF3D4177}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0.06842131157949
+      SNAPOFFS 0
+      LENGTH 24.93157868842051
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B3B3DB01-A99C-4D5D-ACC7-E0C5D3E2BDA7}
+      IID 1
+      NAME Gameplay_part1
+      VOLPAN 1 0 0 -1
+      SOFFS 0.06842131157949
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {799C0892-8BD2-4139-BAA1-58D1BAABCF57}
+      <SOURCE VIDEO
+        FILE "Raw\Crash Twinsanity - Part 1 Walkthrough Gameplay No Commentary.mp4"
+      >
+    >
+    <ITEM
+      POSITION 25
+      SNAPOFFS 0
+      LENGTH 24.655
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D94FBE46-AE01-4777-9590-8C9222373454}
+      IID 1
+      NAME Gameplay_part1
+      VOLPAN 1 0 0 -1
+      SOFFS 25
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1E597FE7-10CC-4790-8ED4-60D8B0C3C929}
+      <SOURCE VIDEO
+        FILE "Raw\Crash Twinsanity - Part 1 Walkthrough Gameplay No Commentary.mp4"
+      >
+    >
+    <ITEM
+      POSITION 49.655
+      SNAPOFFS 0
+      LENGTH 157.86500975577587
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3C9DD2F6-6CAC-4786-B6DB-D2EA245FA324}
+      IID 1
+      NAME Gameplay_part1
+      VOLPAN 1 0 0 -1
+      SOFFS 106.1
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D78DD492-2174-4DA7-9365-15B57761D522}
+      <SOURCE VIDEO
+        FILE "Raw\Crash Twinsanity - Part 1 Walkthrough Gameplay No Commentary.mp4"
+      >
+    >
+    <ITEM
+      POSITION 207.52000975577587
+      SNAPOFFS 0
+      LENGTH 0.42064866842387
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C476E799-9BCA-46A1-B9ED-9E83FCA7C7CC}
+      IID 1
+      NAME Gameplay_part1
+      VOLPAN 1 0 0 -1
+      SOFFS 263.9650097557759
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C11690D9-B6DD-4BDE-B185-C7C76E658E7B}
+      <SOURCE VIDEO
+        FILE "Raw\Crash Twinsanity - Part 1 Walkthrough Gameplay No Commentary.mp4"
+      >
+    >
+    <ITEM
+      POSITION 207.94065842419974
+      SNAPOFFS 0
+      LENGTH 43.88434157580025
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EF3428B9-DEDD-4D5A-82D7-66829D0AA99B}
+      IID 1
+      NAME Gameplay_part1
+      VOLPAN 1 0 0 -1
+      SOFFS 264.38565842419973
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FAA3AE4F-D0A9-4CAD-90CC-591AEE0A84A0}
+      <SOURCE VIDEO
+        FILE "Raw\Crash Twinsanity - Part 1 Walkthrough Gameplay No Commentary.mp4"
+      >
+    >
+    <ITEM
+      POSITION 251.825
+      SNAPOFFS 0
+      LENGTH 16.24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C618E484-7784-4C23-B42E-936C1B4B870B}
+      IID 1
+      NAME Gameplay_part1
+      VOLPAN 1 0 0 -1
+      SOFFS 320.805
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B854085-CD44-448C-8AF9-27FCA4CCD0CA}
+      <SOURCE VIDEO
+        FILE "Raw\Crash Twinsanity - Part 1 Walkthrough Gameplay No Commentary.mp4"
+      >
+    >
+    <ITEM
+      POSITION 268.065
+      SNAPOFFS 5.45
+      LENGTH 173.07342131157947
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E9290AC6-6424-4B4C-9E7D-DFCFD22827E4}
+      IID 1
+      NAME Gameplay_part1
+      VOLPAN 1 0 0 -1
+      SOFFS 374.995
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2A77DE9A-9A20-4056-9F22-F46D24A3237A}
+      <SOURCE VIDEO
+        FILE "Raw\Crash Twinsanity - Part 1 Walkthrough Gameplay No Commentary.mp4"
+      >
+    >
+  >
+  <TRACK {F90D85F1-9163-4590-A757-F3C40B786F63}
+    NAME [INTER]menu_option
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F90D85F1-9163-4590-A757-F3C40B786F63}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 25
+      SNAPOFFS 0
+      LENGTH 0.40297916666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0B757D85-8004-4B97-8F7A-9FED8CE1C44F}
+      IID 22
+      NAME 442327__bolkmar__fx-retro-videogame-click-menu-option.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3BC9FD3E-6C4F-4C78-8A7B-8B9037DBA9C1}
+      <SOURCE WAVE
+        FILE "Raw\442327__bolkmar__fx-retro-videogame-click-menu-option.wav"
+      >
+    >
+    <ITEM
+      POSITION 26.5
+      SNAPOFFS 0
+      LENGTH 0.40297916666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4401FEFA-66E1-42CA-BBAC-04529ECDB7C5}
+      IID 22
+      NAME 442327__bolkmar__fx-retro-videogame-click-menu-option.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EEFF8F8B-DBC2-4257-AA00-8A862FA7741C}
+      <SOURCE WAVE
+        FILE "Raw\442327__bolkmar__fx-retro-videogame-click-menu-option.wav"
+      >
+    >
+    <ITEM
+      POSITION 28
+      SNAPOFFS 0
+      LENGTH 0.40297916666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {582818F8-C2A5-42F8-980C-18F37938D39D}
+      IID 22
+      NAME 442327__bolkmar__fx-retro-videogame-click-menu-option.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CEC759F0-773A-464D-A574-E8EE3EDA2D8B}
+      <SOURCE WAVE
+        FILE "Raw\442327__bolkmar__fx-retro-videogame-click-menu-option.wav"
+      >
+    >
+    <ITEM
+      POSITION 30.5
+      SNAPOFFS 0
+      LENGTH 0.40297916666667
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {06A2BE4C-05D9-4B0F-BF3C-85A60C3B72FB}
+      IID 22
+      NAME 442327__bolkmar__fx-retro-videogame-click-menu-option.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {08135917-E6E0-424C-B048-6607E2A08511}
+      <SOURCE WAVE
+        FILE "Raw\442327__bolkmar__fx-retro-videogame-click-menu-option.wav"
+      >
+    >
+    <ITEM
+      POSITION 36
+      SNAPOFFS 0
+      LENGTH 0.80595833333334
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FBAB748E-3B64-435D-90A8-FAA99428571B}
+      IID 22
+      NAME 442327__bolkmar__fx-retro-videogame-click-menu-option.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22FE9720-64BB-4369-BEE3-390A56F181B2}
+      <SOURCE WAVE
+        FILE "Raw\442327__bolkmar__fx-retro-videogame-click-menu-option.wav"
+      >
+    >
+    <ITEM
+      POSITION 43.5
+      SNAPOFFS 0
+      LENGTH 1.2089375
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7C7A0432-95EA-4281-9A26-AF12650609E9}
+      IID 22
+      NAME 442327__bolkmar__fx-retro-videogame-click-menu-option.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D106856-991F-4887-9618-4FFD2B8F62DC}
+      <SOURCE WAVE
+        FILE "Raw\442327__bolkmar__fx-retro-videogame-click-menu-option.wav"
+      >
+    >
+    <ITEM
+      POSITION 65.85437641723547
+      SNAPOFFS 0
+      LENGTH 0.6018820861678
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B90A8917-DD33-483A-BC83-1B52181AAC17}
+      IID 159
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D62339DD-65BF-4DA4-A567-35C3DC80E1C9}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+  >
+  <TRACK {41A74F3F-50AF-44A8-980C-360B476E2A5B}
+    NAME "[INTER]short spin"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1.0587290132869 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {41A74F3F-50AF-44A8-980C-360B476E2A5B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 49.80480234138621
+      SNAPOFFS 0
+      LENGTH 0.47673515754706
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5F05DD27-5824-4F12-8529-581494B84CA0}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {787F4ABE-3F4E-4D53-BFCD-9C4A071D051F}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 87.43883654304179
+      SNAPOFFS 0
+      LENGTH 0.84129733684773
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C5B5C7F6-5174-4E85-8492-1E7353901BE5}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3ED7B2FC-DCD5-41F5-8F8A-34FFD175D4E7}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 95.79572342239602
+      SNAPOFFS 0
+      LENGTH 0.47673515754707
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A3044680-9A8E-4FC1-8A54-37D892E948E7}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F76F7DEE-FC62-40C9-9BF5-81AFE0B881FA}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 109.25648081195985
+      SNAPOFFS 0
+      LENGTH 0.4767351575471
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1B926CCA-1720-4717-99C0-46154C68902D}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F11F45FD-6FDA-4F3C-B356-E9286CF46590}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 114.52861078953902
+      SNAPOFFS 0
+      LENGTH 0.47673515754708
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5F85229F-C2A2-4477-BAC7-3AE32AE2D65F}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {318FDDF5-EEC5-4D1C-87A6-7861827E5B1C}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 115.36990812638675
+      SNAPOFFS 0
+      LENGTH 0.47673515754708
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2D2B71FF-3CF2-4D10-83A0-556472FEFCD2}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8EDDA4FF-65F4-45AD-AA38-86700A214ED3}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 116.18316221865825
+      SNAPOFFS 0
+      LENGTH 0.4767351575471
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4842CBF4-DBCB-477E-922F-12FAA19031E8}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1C1F0C7-2F5C-4B16-8164-BF1A724902B2}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 122.18441655485344
+      SNAPOFFS 0
+      LENGTH 0.47673515754711
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {94E49AAD-29C0-4A8B-886F-279CB4024A2D}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9BFE6EC5-7065-49CF-8897-1D967BFD4CBA}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 124.87656803276622
+      SNAPOFFS 0
+      LENGTH 0.47673515754711
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4EE9C2CB-8495-41A5-A594-C13297BED24C}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4F3E327D-1910-44A6-83F8-667610FC2C97}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 143.86184460096356
+      SNAPOFFS 0
+      LENGTH 0.4767351575473
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6965079F-EF77-4FE3-B4DE-783B8C56F7ED}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9370620-032C-4FC1-BDA1-15640D71E97A}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 155.52783433858556
+      SNAPOFFS 0
+      LENGTH 0.47673515754732
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0A5945E2-9D8A-4A49-A739-07C75A3DF62C}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E995CC9D-31BE-47AB-9977-7DA0891026DA}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 160.91213729441108
+      SNAPOFFS 0
+      LENGTH 0.47673515754741
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DD7AD6F6-AD1B-44B6-BD66-8C402DEEB9A2}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EC180A5C-9F96-41A0-BEEA-483F796601AD}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 210.7169396357973
+      SNAPOFFS 0
+      LENGTH 0.47673515754741
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {19D80342-37AA-4D5D-B4C6-2F5FE7EE4A3E}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90C50F43-A58A-4333-8020-47BAC2A11E70}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 221.54163203657154
+      SNAPOFFS 0
+      LENGTH 0.47673515754741
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E426A54A-5BF9-44AF-8C0C-5D351ABA7D4B}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC6ADEF5-FB86-404A-9445-D349618A908C}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 242.43384923495711
+      SNAPOFFS 0
+      LENGTH 0.47673515754741
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F4E2D303-1C6F-4A58-A732-D9ECEE38D205}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12A4DC2E-BB32-402B-9ABD-2CBFBAFABE1B}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 248.23798918087192
+      SNAPOFFS 0
+      LENGTH 0.47673515754741
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {13C5D4C1-527D-4044-8D64-F107822FA131}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2F231E36-7474-450A-A2B8-45CE351F045F}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 249.07391156896483
+      SNAPOFFS 0
+      LENGTH 0.47673515754741
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FD9117B5-197B-4FD4-8FBE-CA55EEC27938}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73A78F6E-AD39-478E-9057-4D00406048F4}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 253.16064324419924
+      SNAPOFFS 0
+      LENGTH 0.47673515754741
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0C75B580-716C-46CB-9E77-67F314C93011}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {31F9C507-8EAA-441B-8D2A-353FC92A35C5}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 264.27531499724654
+      SNAPOFFS 0
+      LENGTH 0.47673515754741
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EB603A58-F861-45F1-BC20-B334374F44E0}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E86B9E68-EEB6-4332-BD85-05D212E71D9C}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 281.48912417466795
+      SNAPOFFS 0
+      LENGTH 0.47673515754741
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2BC5FBAE-DD4E-4D62-954F-E21B28A8B53A}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D7492C19-CB6C-4013-BFE1-92D3E9BE03FB}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 309.63184457444498
+      SNAPOFFS 0
+      LENGTH 0.47673515754741
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2D322439-CA07-49ED-AA92-3398148757A9}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {919E0142-75CB-466C-9053-080AB5E0666E}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 310.52968713945444
+      SNAPOFFS 0
+      LENGTH 0.47673515754741
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {19B51200-9B5F-4835-B10C-1328DB9A060F}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {120585E0-8005-4825-8E2C-76F2592F3AE6}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 344.30714363687662
+      SNAPOFFS 0
+      LENGTH 0.47673515754741
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3FDA794C-531B-4233-AEAB-F5278F741C1B}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC2BB543-7E2B-455C-84F8-A84BE0C6D920}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 374.5861101396149
+      SNAPOFFS 0
+      LENGTH 0.74304212276644
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A50FC8A9-F586-4F77-B1DF-DF27F5EE1D90}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB88FBB1-BB82-4B27-892B-11C093654C02}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 387.27974640353295
+      SNAPOFFS 0
+      LENGTH 0.74304212276638
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {21D5F8E0-AD84-4D10-A593-4CC4C42A219E}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2680EEC0-4008-4688-AD8C-5E9D916962DB}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 396.75353346880439
+      SNAPOFFS 0
+      LENGTH 0.74304212276644
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {67B0FC12-CCD9-4F01-88C2-5097FA9B1040}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0BC839EE-F9CF-4657-8751-9240E7E43002}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 404.509551060386
+      SNAPOFFS 0
+      LENGTH 0.74304212276644
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F1942362-88EC-48B9-853D-2E562D0EABBE}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {987CE85B-8857-490E-9F19-53AA662189BB}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 410.36018885188849
+      SNAPOFFS 0
+      LENGTH 0.7430421227665
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {572B303F-15EA-4645-8221-A0BB8FF70B1A}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5E30022A-0264-4F1B-B275-4CD515A0AF69}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 414.47336451133884
+      SNAPOFFS 0
+      LENGTH 0.74304212276655
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {93FCF3E4-BFAE-4C60-8F72-99F20FC5A3A4}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {124B5558-2AB3-4810-A75E-CD1FA5B44010}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 420.43037753537038
+      SNAPOFFS 0
+      LENGTH 0.74304212276638
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {24392E09-9618-4F57-AEF4-AB021CFCB547}
+      IID 42
+      NAME 369636__taylorbrown__spinning-down.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D899CF53-22A7-4C27-8A30-E0A24016F5B2}
+      <SOURCE MP3
+        FILE "Raw\369636__taylorbrown__spinning-down.mp3" 1
+      >
+    >
+  >
+  <TRACK {BC1B6EDB-E6ED-4161-895B-5E94FE6C5253}
+    NAME [INTER]dash
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {BC1B6EDB-E6ED-4161-895B-5E94FE6C5253}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 62.33015873015873
+      SNAPOFFS 0
+      LENGTH 0.33015873015874
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B331B4F6-2EB3-412C-A6B8-23297B3AE66E}
+      IID 31
+      NAME 59994__qubodup__swosh-07.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0.33015873015873
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {958288CC-F143-41B6-9570-2269F3B6E44D}
+      <SOURCE FLAC
+        FILE "Raw\59994__qubodup__swosh-07.flac"
+      >
+    >
+    <ITEM
+      POSITION 68.35129520075965
+      SNAPOFFS 0
+      LENGTH 0.33015873015873
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5740614A-0ACA-4BC9-9404-9B368C13B8DC}
+      IID 31
+      NAME 59994__qubodup__swosh-07.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0.33015873015873
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BD9FCE69-9BD8-46BD-84F2-CA0ED8E803E5}
+      <SOURCE FLAC
+        FILE "Raw\59994__qubodup__swosh-07.flac"
+      >
+    >
+    <ITEM
+      POSITION 71
+      SNAPOFFS 0
+      LENGTH 0.33015873015873
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {63A91778-4A13-4F73-AEE6-F97839A51199}
+      IID 31
+      NAME 59994__qubodup__swosh-07.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0.33015873015873
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D6782A4-6F72-4108-806E-6CB692CEA3FA}
+      <SOURCE FLAC
+        FILE "Raw\59994__qubodup__swosh-07.flac"
+      >
+    >
+    <ITEM
+      POSITION 72.14236649887613
+      SNAPOFFS 0
+      LENGTH 0.33015873015873
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4784D545-5754-4EF3-9C98-CE98476A845E}
+      IID 31
+      NAME 59994__qubodup__swosh-07.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0.33015873015873
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B066602E-15A3-4CCE-84CF-B8518F113E64}
+      <SOURCE FLAC
+        FILE "Raw\59994__qubodup__swosh-07.flac"
+      >
+    >
+    <ITEM
+      POSITION 74
+      SNAPOFFS 0
+      LENGTH 0.33015873015873
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0F5A7337-020D-4D9E-AC5E-E9C05A3FF020}
+      IID 31
+      NAME 59994__qubodup__swosh-07.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0.33015873015873
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {39409982-0B2A-4E78-A814-9E465EA034B5}
+      <SOURCE FLAC
+        FILE "Raw\59994__qubodup__swosh-07.flac"
+      >
+    >
+    <ITEM
+      POSITION 92.03792865114276
+      SNAPOFFS 0
+      LENGTH 0.33015873015873
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0F5FDBA0-BF11-49A4-A8C8-E1A0CB2CE04F}
+      IID 31
+      NAME 59994__qubodup__swosh-07.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0.33015873015873
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5759D3D3-4B19-46E2-BCC0-A440DD2BA776}
+      <SOURCE FLAC
+        FILE "Raw\59994__qubodup__swosh-07.flac"
+      >
+    >
+    <ITEM
+      POSITION 130.28891423315335
+      SNAPOFFS 0
+      LENGTH 0.33015873015873
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {311F3ABA-A2FD-4093-8300-DE2CC9AECEBC}
+      IID 31
+      NAME 59994__qubodup__swosh-07.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0.33015873015873
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CEDF77D3-5C8E-4900-B42D-3C37AFD8978B}
+      <SOURCE FLAC
+        FILE "Raw\59994__qubodup__swosh-07.flac"
+      >
+    >
+    <ITEM
+      POSITION 139.85166062868666
+      SNAPOFFS 0
+      LENGTH 0.33015873015873
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {557457CE-A651-4705-8B3A-E18353DFCD4E}
+      IID 31
+      NAME 59994__qubodup__swosh-07.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0.33015873015873
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8FB5CA45-DB0A-4069-851A-A8BFBDE37552}
+      <SOURCE FLAC
+        FILE "Raw\59994__qubodup__swosh-07.flac"
+      >
+    >
+    <ITEM
+      POSITION 158.94911017509969
+      SNAPOFFS 0
+      LENGTH 0.3301587301587
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5662A177-14FD-4184-8E59-EBCB4E426788}
+      IID 31
+      NAME 59994__qubodup__swosh-07.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0.33015873015873
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {14583752-3BB3-4E9A-B1B4-0BE9F04515A0}
+      <SOURCE FLAC
+        FILE "Raw\59994__qubodup__swosh-07.flac"
+      >
+    >
+    <ITEM
+      POSITION 163.04342388109202
+      SNAPOFFS 0
+      LENGTH 0.33015873015873
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0CBD4DAD-258F-4FEB-B7E5-DB3B18F77987}
+      IID 31
+      NAME 59994__qubodup__swosh-07.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0.33015873015873
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {49973F0C-81AF-4830-8777-0783D92955E7}
+      <SOURCE FLAC
+        FILE "Raw\59994__qubodup__swosh-07.flac"
+      >
+    >
+    <ITEM
+      POSITION 240.05017344722182
+      SNAPOFFS 0
+      LENGTH 0.33015873015887
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8F8DCAE7-3BBB-40AC-81C3-6297A4201769}
+      IID 31
+      NAME 59994__qubodup__swosh-07.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0.33015873015873
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5AA2E054-DF7A-4D48-8F1E-91C3263C4D45}
+      <SOURCE FLAC
+        FILE "Raw\59994__qubodup__swosh-07.flac"
+      >
+    >
+  >
+  <TRACK {0EB6F210-F583-4784-9697-4A2B7A9B83D3}
+    NAME [INTER]jump
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.14550606486759 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0EB6F210-F583-4784-9697-4A2B7A9B83D3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 96.5
+      SNAPOFFS 0
+      LENGTH 0.19578631146041
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7FC5A326-A09B-4B6F-85E7-6966D230C786}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A692919A-C07E-4E22-8B95-CC50CBB24EDF}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 96.69578631146041
+      SNAPOFFS 0
+      LENGTH 0.42256813481168
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6BDC57C5-D7E4-430A-9ED9-3692A8729F3F}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FA15361D-3796-4311-A943-C2BCBC4B1481}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 100.56307499786652
+      SNAPOFFS 0
+      LENGTH 0.42256813481168
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CAACF694-2390-4A92-ABCE-BF19E522CBD2}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EBACA5A1-65EF-4429-A65C-963718C24AAD}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 107.32149693719111
+      SNAPOFFS 0
+      LENGTH 0.19578631146041
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F45142A1-2502-4497-8320-B7C6B5A98C5D}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C745E5AC-B58E-4975-87C8-2FFA7A483BE0}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 107.5172832487151
+      SNAPOFFS 0
+      LENGTH 0.42256813481168
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BF6112F1-FCA3-4172-A98C-754674890010}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7FFBA81-8A21-49A0-ACDF-45E114BC76AA}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 111.52798362144874
+      SNAPOFFS 0
+      LENGTH 0.4225681348117
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {37FB3ED8-62BB-4480-A333-234EE55E8ED8}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FAC6F7BA-7FA9-405E-931F-387646990AD7}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 112.73384313759716
+      SNAPOFFS 0
+      LENGTH 0.1957863114604
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4F025A20-8829-45B9-8E46-F4C2F9F150B0}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DB66078D-99ED-4212-A24F-DC0EE749B7AA}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 112.92962944912115
+      SNAPOFFS 0
+      LENGTH 0.4225681348117
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AE3ABAEE-6B84-47A2-A912-CA4C39A4C28A}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA8EF9EA-0858-4B0D-9D1C-8D9A82EFAEA3}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 117.05250280012842
+      SNAPOFFS 0
+      LENGTH 0.1957863114604
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DDEC32C7-E412-4D79-8130-21CC7E7C9E50}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5DF7D127-C8FD-40B5-992D-7FCE711B6AF7}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 117.24828911165241
+      SNAPOFFS 0
+      LENGTH 0.4225681348117
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2277BC95-4B2F-40E6-B9CF-D7001072CAFF}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {87C02737-893E-49A1-912A-36B08D24708B}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 119.40813534325591
+      SNAPOFFS 0
+      LENGTH 0.42256813481171
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {79CA895B-B794-41D2-B260-7A6B0137F153}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FBDE9EF5-D289-4FA9-B98A-1632F0A026C2}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 120.4457353920443
+      SNAPOFFS 0
+      LENGTH 0.42256813481171
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F4BB6D91-580F-4B78-BB10-373A920A1819}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {31D1C148-4C39-4C1C-975C-382C25CD9401}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 120.8683035268914
+      SNAPOFFS 0
+      LENGTH 0.4225681348117
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {73CCF58E-43B5-43A9-B0CD-97247BF510D4}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C8C7F26-5D1F-4476-A610-017B55665B83}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 121.29087166162208
+      SNAPOFFS 0
+      LENGTH 0.4225681348117
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9EAB22A4-13AA-4E21-B07E-F7FF9F3929AC}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {55E0A85B-46AD-41FE-A36F-2C8131ACEAD4}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 121.71343979646917
+      SNAPOFFS 0
+      LENGTH 0.42256813481168
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F1858552-7A75-46C4-8601-1A978B25931B}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8A193CAB-C179-4E48-B86E-BB9248EAEC9F}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 123.13788686994755
+      SNAPOFFS 0
+      LENGTH 0.25430866747058
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0531329D-F514-4A6A-B82F-9A5AED6CACAD}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.16825946734113
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B307C35-021D-49D5-A52B-D9AFBA097215}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 123.13788686994755
+      SNAPOFFS 0
+      LENGTH 0.25430866747058
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5C98E282-2E2E-47EA-A3A9-7A8F2FB2D156}
+      IID 75
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {95DC406A-BFFE-495F-8E76-C0DE64ABF213}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 123.39219553741813
+      SNAPOFFS 0
+      LENGTH 0.42256813481171
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A305B68D-F000-4FF3-A95A-B03BEC4D140A}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E40BA77-529A-4EAF-840F-EB269E868FBA}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 124.82048154364306
+      SNAPOFFS 0
+      LENGTH 0.42256813481171
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {81D4A6D0-113A-4D0D-87C4-C97F0209913C}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB658FB6-127F-4E70-9CA8-28254CF0D4C9}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 136.17799559108752
+      SNAPOFFS 0
+      LENGTH 0.42256813481171
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3F1C924B-B972-49B5-AB67-FF39F094A826}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64FE71C3-715F-470C-A937-77E884BF146A}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 140.58078498725737
+      SNAPOFFS 0
+      LENGTH 0.25430866747061
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {29B4CAE5-7E92-4CB7-8316-F3F148858313}
+      IID 75
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB961592-BAD1-4BA9-8777-050675CCAF2D}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 140.83509365475695
+      SNAPOFFS 0
+      LENGTH 0.42256813481171
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {62C358B0-88D7-43AD-BBDB-26A6C9C9C91D}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E07B3965-0D63-45DE-8470-A533F81F6B31}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 142.20729317182966
+      SNAPOFFS 0
+      LENGTH 0.42256813481171
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {36F9CFC1-522F-49BB-8612-027983D917B1}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E62BFBB7-EA2C-4B82-9304-02A388D1C546}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 143.77771486726124
+      SNAPOFFS 0
+      LENGTH 0.42256813481171
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {93BA7FD2-94E3-4681-8534-28F31ED34AF1}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B05E28FA-654F-4900-87F7-39A1884573D5}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 164.52971584285635
+      SNAPOFFS 0
+      LENGTH 0.25430866747061
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {594F03C8-10B8-47E9-8D89-EED960C1AC50}
+      IID 75
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24888FCF-BADC-4D8B-A6AF-85962E49560E}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 164.78402451035592
+      SNAPOFFS 0
+      LENGTH 0.42256813481171
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {54EC8D0F-397F-4A96-8C51-BB2EB2B4862C}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6197291-D652-49B2-9FEB-54F6CD171920}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 176.70048398258703
+      SNAPOFFS 0
+      LENGTH 0.42256813481177
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2480F1F9-625D-44F6-95DA-93637BA15B77}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3DBCAB7-6748-4803-B21C-4AFA15FF77CD}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 187.32887367147487
+      SNAPOFFS 0
+      LENGTH 0.25430866747061
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B2190291-A28C-4152-966C-B6BE9E0D1BFF}
+      IID 75
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2F0B3AD5-0FA7-4FB3-9F7A-021012E64357}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 187.58318233897444
+      SNAPOFFS 0
+      LENGTH 0.42256813481171
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EE7B7D5E-B0BE-40F7-BFF4-CE349C0DCA77}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {533B68D0-0C02-43EC-A732-02F531C5321C}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 191.03058195356019
+      SNAPOFFS 0
+      LENGTH 0.25430866747072
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {617D0A87-F57D-44B2-B4BC-D51AE63674EA}
+      IID 75
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BFE3D64E-F6D1-4B69-AC3F-FBF6C28E683A}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 191.28489062105976
+      SNAPOFFS 0
+      LENGTH 0.42256813481188
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BE53FF9F-8153-4AE0-8F9F-D8C08FFAAFB0}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C56E4B7C-4511-4F72-A6CB-2DA80A0B99A4}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 193.77881992059613
+      SNAPOFFS 0
+      LENGTH 0.25430866747072
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {756946C4-9032-48F5-B2C2-61F78B84A8DA}
+      IID 75
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {60D489EA-3DBD-4E2E-8BE2-DDD22E6E6C65}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 194.03312858809571
+      SNAPOFFS 0
+      LENGTH 0.42256813481188
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {43636E27-FB72-43EE-9700-F9C508E78ACC}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5F6C99FE-1A42-47AD-B1DC-6B2447D95FF6}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 198.77051745255937
+      SNAPOFFS 0
+      LENGTH 0.42256813481185
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {963DC435-AB88-4066-A4D2-8EC1A6A94AF7}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ABA9CC33-964B-449C-8DE3-C5B24121B077}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 199.72398776770569
+      SNAPOFFS 0
+      LENGTH 0.42256813481188
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6CDD2844-AF5E-401F-AC69-99A9964A4355}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {17E3AB40-5003-4371-A6F0-BAFE82EA37C3}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 200.39702563709579
+      SNAPOFFS 0
+      LENGTH 0.42256813481188
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7EA69C05-CE17-4BA4-925C-97C638574B62}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {28844A0F-13EF-4247-B4C1-BE57893E81BE}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 201.12614999571815
+      SNAPOFFS 0
+      LENGTH 0.42256813481188
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {55E477D6-BF92-48B3-A9C7-7DE10B5780A0}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F968AC38-6DD2-4093-9D44-F0B4A4128099}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 202.41613924561534
+      SNAPOFFS 0
+      LENGTH 0.42256813481188
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B8929350-CFBF-4FFE-8335-0F5149D294C6}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5B919800-B4D2-45C9-9862-2444019786F7}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 207.52000975577587
+      SNAPOFFS 0
+      LENGTH 0.42064866842387
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1F0D7546-F992-4E97-A7B2-4EBC2A5F19D7}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CDBB341A-DE86-4475-B44F-8A612ECD71CB}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 207.94065842419974
+      SNAPOFFS 0
+      LENGTH 0.00191946638804
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.00191946638804 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3B1D59D7-AACC-4786-AA01-EE706E6A1538}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0.42064866842387
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA09D08F-2071-493C-9EDD-5B32CA9DCE0F}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 210.07194501088068
+      SNAPOFFS 0
+      LENGTH 0.42256813481188
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {872C1398-62B9-43F4-8EF8-528B43AA2113}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB9E2E4D-D524-4992-A58B-B8DA4CBA8626}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 212.96039920072459
+      SNAPOFFS 0
+      LENGTH 0.2543086674707
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D4205DA9-E5DB-4423-8B85-F85652566480}
+      IID 75
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {66D54F88-0CF0-4933-8529-09DCE98DEDF8}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 213.21470786822417
+      SNAPOFFS 0
+      LENGTH 0.42256813481185
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BD7EDA8B-6601-4CDE-AA13-B94281A0617C}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {393CDEC9-1AF5-4CC7-804C-52E58B097FC6}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 214.16625871687302
+      SNAPOFFS 0
+      LENGTH 0.42256813481188
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B552CDF8-423C-4B89-A5DE-05B2C911C3F0}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AF55AC99-C6BD-41E8-82A8-B447D84C4C78}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 216.2134155698692
+      SNAPOFFS 0
+      LENGTH 0.25430866747072
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BF2D7159-ADE9-4914-9BE6-AAF7B0C39B17}
+      IID 75
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AC5E80FD-5A92-4820-8DD2-AC06F86FD9E0}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 216.46772423736877
+      SNAPOFFS 0
+      LENGTH 0.42256813481188
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {63D22288-AE95-45D7-93B4-E119528C47F1}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A0E7A6C0-0F7C-4A6F-99C2-AA596612328F}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 220.05342060836196
+      SNAPOFFS 0
+      LENGTH 0.25430866747072
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3FD28DC0-38BB-4800-BABF-CAE6A7F38847}
+      IID 75
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C09004E6-38EF-43BB-88FD-4C4C78867C66}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 220.30772927586153
+      SNAPOFFS 0
+      LENGTH 0.42256813481188
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0DC34293-6960-4462-A16F-2A8A753D8C82}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58E44FAB-AFD9-4490-BA6B-FE2E5FCDB67B}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 224.00751809154633
+      SNAPOFFS 0
+      LENGTH 0.2543086674707
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {80B3A724-6A3F-4C00-BDF8-D15E1A3F3068}
+      IID 75
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E9ACFAA9-CDF7-4823-9E02-1618A4A63AAF}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 224.2618267590459
+      SNAPOFFS 0
+      LENGTH 0.42256813481185
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0ED0A839-DD8A-4AE3-8CCB-F4C192E63A48}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8124C5F2-B16E-4BBD-9367-0000C97A388B}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 242.20950327846433
+      SNAPOFFS 0
+      LENGTH 0.42256813481205
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8C737388-4F39-4814-9B02-828BA4C08A73}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10BD848B-D71A-4394-9405-586EC71D01D3}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 245.87839449886758
+      SNAPOFFS 0
+      LENGTH 0.25430866747072
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {272E0E40-9099-4F04-80DA-D6887483B650}
+      IID 75
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {905B0234-5260-4178-9BFA-30C37F3F1403}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 246.13270316636715
+      SNAPOFFS 0
+      LENGTH 0.42256813481188
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {93A25BD6-F000-4D4B-9648-522024498AF0}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA6D02E2-10C8-484E-A7C6-3D87F94A21CC}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 247.34014661586255
+      SNAPOFFS 0
+      LENGTH 0.25430866747072
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {07AF73AA-D804-4FE8-9355-1FD498A29BDE}
+      IID 75
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CCC69BC9-A2E8-461A-B71B-4E49B8774549}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 247.59445528336212
+      SNAPOFFS 0
+      LENGTH 0.42256813481188
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D03DE082-9B14-4153-BB86-B94B51628B35}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1C31CA8-F5BD-48EF-91C5-968929F0E0CD}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 259.69740111909022
+      SNAPOFFS 0
+      LENGTH 0.42256813481191
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {26568B1C-AC94-4472-BEFC-AFABF7B17BF1}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC3AF5AC-0889-4A62-B7F2-B7E01630FDB0}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 260.58386139052351
+      SNAPOFFS 0
+      LENGTH 0.42256813481191
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {175F72F3-4BAB-47C3-9D81-CBB6AFBB258E}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4AF75701-52EC-4D65-8CB0-5BD5197302C4}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 265.9026230191231
+      SNAPOFFS 0
+      LENGTH 0.42256813481191
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {175AC064-C98C-4AA4-8A24-DDBC8C3875E6}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FDFCA8B0-08B4-40D7-92CA-800190FE5B27}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 359.35374662291724
+      SNAPOFFS 0
+      LENGTH 0.42256813481191
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B202CD80-024B-4E6B-A95C-049ED07756DA}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2D402EBC-C7C9-486F-8729-DE29B7F8042D}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 360.25158918788657
+      SNAPOFFS 0
+      LENGTH 0.42256813481191
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F0724EDC-AAF3-42E9-81B9-1896B0ED669D}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {383CE58D-D227-48AC-85D3-1C047BCDC11D}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 361.02559139912046
+      SNAPOFFS 0
+      LENGTH 0.42256813481185
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A9850E0F-B76F-44A9-A095-5BCF50AAE0D8}
+      IID 39
+      NAME cartoon-jump-6462.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7C51B659-5845-435D-AC29-1CEB0248E9B6}
+      <SOURCE MP3
+        FILE "Raw\cartoon-jump-6462.mp3" 1
+      >
+    >
+  >
+  <TRACK {4764258E-A851-4C2C-8520-D1A2528F62C9}
+    NAME [INTER]stomp
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.08980015007282 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {4764258E-A851-4C2C-8520-D1A2528F62C9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 170.22249448885941
+      SNAPOFFS 0
+      LENGTH 0.52183673469389
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0E4BC81E-85BF-437C-9045-E1834DE5EC6F}
+      IID 94
+      NAME 711943__hyperglosss__gloss-stomp-messy.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {41CECCAF-9E0C-4325-917D-F0CB15576E7C}
+      <SOURCE WAVE
+        FILE "Raw\711943__hyperglosss__gloss-stomp-messy.wav"
+      >
+    >
+    <ITEM
+      POSITION 188.366473720209
+      SNAPOFFS 0
+      LENGTH 0.52183673469401
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {657A7DB6-A979-4A37-A07A-F549EE1F5729}
+      IID 94
+      NAME 711943__hyperglosss__gloss-stomp-messy.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C39FF82C-F569-475A-8EEE-0F06E858270F}
+      <SOURCE WAVE
+        FILE "Raw\711943__hyperglosss__gloss-stomp-messy.wav"
+      >
+    >
+  >
+  <TRACK {1ED3469B-703F-4F6B-89B8-A81968C96BD4}
+    NAME [INTER]spring
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.46136861156001 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1ED3469B-703F-4F6B-89B8-A81968C96BD4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 177.6819975422427
+      SNAPOFFS 0
+      LENGTH 0.72370833333335
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D7B9BDAB-D007-4599-B46B-F51D2FBE6F0D}
+      IID 103
+      NAME 540788__magnuswaker__boing-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12D93B0F-19C3-4469-822D-83C4455F98AF}
+      <SOURCE WAVE
+        FILE "Raw\540788__magnuswaker__boing-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 192.04013875778764
+      SNAPOFFS 0
+      LENGTH 0.72370833333335
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3598CA1D-BDC0-4D5C-824B-3642B8E46073}
+      IID 103
+      NAME 540788__magnuswaker__boing-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FDDF0C16-40BE-4D09-ABD0-F24134937161}
+      <SOURCE WAVE
+        FILE "Raw\540788__magnuswaker__boing-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 194.73229023569027
+      SNAPOFFS 0
+      LENGTH 0.72370833333335
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {64B683C6-7CFD-403C-B0FB-EA3EF80A97BE}
+      IID 103
+      NAME 540788__magnuswaker__boing-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6AB534B1-3BDF-49EB-A024-BD854C8BA24D}
+      <SOURCE WAVE
+        FILE "Raw\540788__magnuswaker__boing-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 196.33075517570094
+      SNAPOFFS 0
+      LENGTH 0.72370833333343
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B015CF63-2C86-4761-895B-CECE7227CB83}
+      IID 103
+      NAME 540788__magnuswaker__boing-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F9DED8AF-EE49-4F34-B51F-F6066442CEC6}
+      <SOURCE WAVE
+        FILE "Raw\540788__magnuswaker__boing-1.wav"
+      >
+    >
+    <ITEM
+      POSITION 197.62074442557059
+      SNAPOFFS 0
+      LENGTH 0.72370833333335
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6CA1D532-05A0-4ACD-A6D9-A5A65CE46819}
+      IID 103
+      NAME 540788__magnuswaker__boing-1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {904A687D-C4C4-4563-AB77-294B59A10869}
+      <SOURCE WAVE
+        FILE "Raw\540788__magnuswaker__boing-1.wav"
+      >
+    >
+  >
+  <TRACK {28CE92E0-6A87-4877-91C2-8C59B06BDB50}
+    NAME [TOPIC]beach
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.27253178177058 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {28CE92E0-6A87-4877-91C2-8C59B06BDB50}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 25
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {94B2F5CC-D327-482C-ABCE-24B8AE952C72}
+      IID 150
+      NAME 353876__oldpueblo__waves-beach-sounds.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F32FEEE1-AD43-4FCA-8036-F8D31A83157E}
+      <SOURCE FLAC
+        FILE "Raw\353876__oldpueblo__waves-beach-sounds.flac"
+      >
+    >
+    <ITEM
+      POSITION 25
+      SNAPOFFS 0
+      LENGTH 24
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E28BA58C-F712-4AD3-9B44-5D6F596446E5}
+      IID 150
+      NAME 353876__oldpueblo__waves-beach-sounds.flac
+      VOLPAN 1 0 0.317176 -1
+      SOFFS 25
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {56E737AB-D6CE-4D97-852D-0B4F248CCF4D}
+      <SOURCE FLAC
+        FILE "Raw\353876__oldpueblo__waves-beach-sounds.flac"
+      >
+    >
+    <ITEM
+      POSITION 49
+      SNAPOFFS 0
+      LENGTH 45.7897052154195
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {11A37F69-500B-4131-A5E3-E46F8A9F6221}
+      IID 150
+      NAME 353876__oldpueblo__waves-beach-sounds.flac
+      VOLPAN 1 0 1 -1
+      SOFFS 49
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {726E9E32-9D9D-461C-83ED-799FC83988FF}
+      <SOURCE FLAC
+        FILE "Raw\353876__oldpueblo__waves-beach-sounds.flac"
+      >
+    >
+    <ITEM
+      POSITION 268.81805522313209
+      SNAPOFFS 0
+      LENGTH 45.78970521541947
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F7BD7718-FD4C-4147-BDE5-D3BA275418C3}
+      IID 150
+      NAME 353876__oldpueblo__waves-beach-sounds.flac
+      VOLPAN 1 0 0.094689 -1
+      SOFFS 49
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {58086BEF-61E7-4E87-92A0-8415949D6BEB}
+      <SOURCE FLAC
+        FILE "Raw\353876__oldpueblo__waves-beach-sounds.flac"
+      >
+    >
+    <ITEM
+      POSITION 314.60776043857913
+      SNAPOFFS 0
+      LENGTH 45.78970521541947
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0F9C0117-6626-4372-BBA0-46018BBAD60F}
+      IID 150
+      NAME 353876__oldpueblo__waves-beach-sounds.flac
+      VOLPAN 1 0 0.094689 -1
+      SOFFS 49
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ECE82470-D0D6-4785-8102-4872485432A8}
+      <SOURCE FLAC
+        FILE "Raw\353876__oldpueblo__waves-beach-sounds.flac"
+      >
+    >
+    <ITEM
+      POSITION 360.39746565395035
+      SNAPOFFS 0
+      LENGTH 45.78970521541947
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7298A1C5-1802-4CF2-8098-FB8E38536D7C}
+      IID 150
+      NAME 353876__oldpueblo__waves-beach-sounds.flac
+      VOLPAN 1 0 0.094689 -1
+      SOFFS 49
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {61EB903E-5C5E-4A63-B10A-5C1EF60E5EFD}
+      <SOURCE FLAC
+        FILE "Raw\353876__oldpueblo__waves-beach-sounds.flac"
+      >
+    >
+    <ITEM
+      POSITION 406.18717086932156
+      SNAPOFFS 0
+      LENGTH 25.05990625429172
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4B08DF65-C7EC-4471-BAC3-CC50F0573712}
+      IID 150
+      NAME 353876__oldpueblo__waves-beach-sounds.flac
+      VOLPAN 1 0 0.094689 -1
+      SOFFS 49
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F9C8859C-1189-4049-BA37-31B97FAAAAF2}
+      <SOURCE FLAC
+        FILE "Raw\353876__oldpueblo__waves-beach-sounds.flac"
+      >
+    >
+  >
+  <TRACK {9A2D046A-E9D0-4419-A24B-4C0CFE56CFB1}
+    NAME [TOPIC]forest
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.40093814726181 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9A2D046A-E9D0-4419-A24B-4C0CFE56CFB1}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 94.77002299692307
+      SNAPOFFS 0
+      LENGTH 25.90696145124721
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5F1072C1-9081-4A62-85E5-799DD9B4D014}
+      IID 245
+      NAME 170515__rolandasb__forest_ambient_01_loop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBA743B7-D517-4DBE-A65C-385D025631E1}
+      <SOURCE WAVE
+        FILE "Raw\170515__rolandasb__forest_ambient_01_loop.wav"
+      >
+    >
+    <ITEM
+      POSITION 120.67698444817029
+      SNAPOFFS 0
+      LENGTH 21.28044783079039
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0ACCBAA6-1390-4E1B-A8BF-65DC189E39C4}
+      IID 245
+      NAME 170515__rolandasb__forest_ambient_01_loop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90157C72-C269-4239-8163-C847434BE225}
+      <SOURCE WAVE
+        FILE "Raw\170515__rolandasb__forest_ambient_01_loop.wav"
+      >
+    >
+    <ITEM
+      POSITION 141.95743227896068
+      SNAPOFFS 0
+      LENGTH 11.99445453693332
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1B12F3B0-DB19-4181-8935-C09BBCFA27FD}
+      IID 245
+      NAME 170515__rolandasb__forest_ambient_01_loop.wav
+      VOLPAN 1 0 0.22026 -1
+      SOFFS 25.15607302883619
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3E1DDF39-244D-470A-B934-695D90614593}
+      <SOURCE WAVE
+        FILE "Raw\170515__rolandasb__forest_ambient_01_loop.wav"
+      >
+    >
+    <ITEM
+      POSITION 153.95188681595027
+      SNAPOFFS 0
+      LENGTH 25.90696145124721
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EC737133-07E8-4D2B-BC59-B202E6B4CD46}
+      IID 245
+      NAME 170515__rolandasb__forest_ambient_01_loop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {82EFCF9F-D8D8-4763-8631-960D2073206C}
+      <SOURCE WAVE
+        FILE "Raw\170515__rolandasb__forest_ambient_01_loop.wav"
+      >
+    >
+    <ITEM
+      POSITION 179.85884826723486
+      SNAPOFFS 0
+      LENGTH 25.90696145124721
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {80D91036-CE09-4E68-B55E-DBD464092946}
+      IID 245
+      NAME 170515__rolandasb__forest_ambient_01_loop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BA6DC783-662C-4EA7-B066-A8C6BEA06781}
+      <SOURCE WAVE
+        FILE "Raw\170515__rolandasb__forest_ambient_01_loop.wav"
+      >
+    >
+    <ITEM
+      POSITION 205.76580971851945
+      SNAPOFFS 0
+      LENGTH 25.90696145124721
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {48433C85-5A1C-47C3-8BE4-BE2C0E7AB843}
+      IID 245
+      NAME 170515__rolandasb__forest_ambient_01_loop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A35E1517-13F9-4AEC-B881-2D5BE2D80A68}
+      <SOURCE WAVE
+        FILE "Raw\170515__rolandasb__forest_ambient_01_loop.wav"
+      >
+    >
+    <ITEM
+      POSITION 231.67277116968762
+      SNAPOFFS 0
+      LENGTH 25.90696145124724
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FE860064-C839-45E2-834C-40B7524DFCF9}
+      IID 245
+      NAME 170515__rolandasb__forest_ambient_01_loop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DF5D5263-0ECF-4C20-ABCB-765B08DF3BDA}
+      <SOURCE WAVE
+        FILE "Raw\170515__rolandasb__forest_ambient_01_loop.wav"
+      >
+    >
+    <ITEM
+      POSITION 257.57973262097221
+      SNAPOFFS 0
+      LENGTH 11.25808282380228
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8F75183E-16DD-4AD1-BECE-911319081A4B}
+      IID 245
+      NAME 170515__rolandasb__forest_ambient_01_loop.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A49A8634-B91B-4E99-951C-3378540AC8C1}
+      <SOURCE WAVE
+        FILE "Raw\170515__rolandasb__forest_ambient_01_loop.wav"
+      >
+    >
+  >
+  <TRACK {77288448-0738-402A-95E5-262445176EEA}
+    NAME [TOPIC]lasershot
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.27991910429543 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {77288448-0738-402A-95E5-262445176EEA}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 280.59758914129907
+      SNAPOFFS 0
+      LENGTH 0.91718820861684
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {34C201C7-BB1F-4631-A58E-B9BCB1506F68}
+      IID 410
+      NAME 638301__frazierwing__bowzergungameready.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7D6936E0-13B9-4FAB-A41A-95CF44591462}
+      <SOURCE WAVE
+        FILE "Raw\638301__frazierwing__bowzergungameready.wav"
+      >
+    >
+    <ITEM
+      POSITION 309.08750210232409
+      SNAPOFFS 0
+      LENGTH 0.91718820861684
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6DFBF03B-EE1E-491C-9841-F9192376CB1A}
+      IID 410
+      NAME 638301__frazierwing__bowzergungameready.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {97F634AA-2302-404E-9433-334284503672}
+      <SOURCE WAVE
+        FILE "Raw\638301__frazierwing__bowzergungameready.wav"
+      >
+    >
+    <ITEM
+      POSITION 343.78036110190925
+      SNAPOFFS 0
+      LENGTH 0.91718820861684
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {57C45D23-9BE2-4312-BF2E-3E507A900ACA}
+      IID 410
+      NAME 638301__frazierwing__bowzergungameready.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27D634C0-9E0F-44BB-8A4A-7859B602224E}
+      <SOURCE WAVE
+        FILE "Raw\638301__frazierwing__bowzergungameready.wav"
+      >
+    >
+    <ITEM
+      POSITION 374.32753254808489
+      SNAPOFFS 0
+      LENGTH 0.91718820861678
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {309944A4-731D-434A-BA99-210CE3C16700}
+      IID 410
+      NAME 638301__frazierwing__bowzergungameready.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0C551B46-012C-4652-B4EA-2CA0039AF144}
+      <SOURCE WAVE
+        FILE "Raw\638301__frazierwing__bowzergungameready.wav"
+      >
+    >
+    <ITEM
+      POSITION 386.8581069576386
+      SNAPOFFS 0
+      LENGTH 0.91718820861684
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7DE645DB-4B2A-461C-BD4B-140FC86BD512}
+      IID 410
+      NAME 638301__frazierwing__bowzergungameready.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C7C6481B-50C9-4479-8075-7FDEE7D9EA7E}
+      <SOURCE WAVE
+        FILE "Raw\638301__frazierwing__bowzergungameready.wav"
+      >
+    >
+    <ITEM
+      POSITION 396.27162305635801
+      SNAPOFFS 0
+      LENGTH 0.91718820861678
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {898B321C-2FD5-4DDD-B1A9-5591B0C8BF7C}
+      IID 410
+      NAME 638301__frazierwing__bowzergungameready.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B5A5C7A-8952-4EA2-BB7B-913194B7E9BC}
+      <SOURCE WAVE
+        FILE "Raw\638301__frazierwing__bowzergungameready.wav"
+      >
+    >
+    <ITEM
+      POSITION 404.18895116587703
+      SNAPOFFS 0
+      LENGTH 0.91718820861689
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DCDFED54-3E29-40A1-9509-67FBB62A9CBC}
+      IID 410
+      NAME 638301__frazierwing__bowzergungameready.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B59A29A8-80F5-4567-9354-47BA568A913E}
+      <SOURCE WAVE
+        FILE "Raw\638301__frazierwing__bowzergungameready.wav"
+      >
+    >
+    <ITEM
+      POSITION 409.830826708487
+      SNAPOFFS 0
+      LENGTH 0.91718820861684
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9434686E-5E6C-4453-B408-7914DAFD8DDF}
+      IID 410
+      NAME 638301__frazierwing__bowzergungameready.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {30E5BF87-C574-467F-B9D3-4F3473FDC462}
+      <SOURCE WAVE
+        FILE "Raw\638301__frazierwing__bowzergungameready.wav"
+      >
+    >
+    <ITEM
+      POSITION 414.00768484501168
+      SNAPOFFS 0
+      LENGTH 0.91718820861684
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1407E0DB-7313-43BB-BED3-50CF55E4B72A}
+      IID 410
+      NAME 638301__frazierwing__bowzergungameready.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {729636D7-980C-4ABB-815F-DCD114772389}
+      <SOURCE WAVE
+        FILE "Raw\638301__frazierwing__bowzergungameready.wav"
+      >
+    >
+    <ITEM
+      POSITION 420.05477796797641
+      SNAPOFFS 0
+      LENGTH 0.91718820861684
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6BEADBF5-6496-4104-BCBF-E77FB4B28FDD}
+      IID 410
+      NAME 638301__frazierwing__bowzergungameready.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73131EFE-E7DE-4BDF-9636-25ACB7753540}
+      <SOURCE WAVE
+        FILE "Raw\638301__frazierwing__bowzergungameready.wav"
+      >
+    >
+  >
+  <TRACK {76A5E7A4-E06A-4736-A2A9-A736FEB1DF6E}
+    NAME [TOPIC]laserblast
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.25821236857936 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {76A5E7A4-E06A-4736-A2A9-A736FEB1DF6E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 273.04069450099888
+      SNAPOFFS 0
+      LENGTH 1.73671596205446
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {7EF1200E-6DC8-470E-B008-F88816F8DAE6}
+      IID 421
+      NAME 514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.86119533527697 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C3C53AAF-EECC-45AC-AD5E-EFFFACDC8FCD}
+      <SOURCE WAVE
+        FILE "Raw\514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav"
+      >
+    >
+    <ITEM
+      POSITION 274.77741046305334
+      SNAPOFFS 0
+      LENGTH 1.73671596205446
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {064A472C-9A6C-46F6-8C86-26B4A433EDB6}
+      IID 421
+      NAME 514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.86119533527697 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {046DDC10-AB74-4A4D-9850-B3453177B952}
+      <SOURCE WAVE
+        FILE "Raw\514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav"
+      >
+    >
+    <ITEM
+      POSITION 276.5141264251078
+      SNAPOFFS 0
+      LENGTH 5.26328403794543
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {ACAB507C-83E4-4687-9192-32E3AA6FE9E7}
+      IID 421
+      NAME 514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.49565168522236
+      PLAYRATE 0.86119533527697 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DF5CE764-49FD-49C3-A367-503759E96FB4}
+      <SOURCE WAVE
+        FILE "Raw\514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav"
+      >
+    >
+    <ITEM
+      POSITION 302.68064692004583
+      SNAPOFFS 0
+      LENGTH 1.7367159620544
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {E20E3A6F-A6D7-44B0-8CB8-80F6CC4B506E}
+      IID 421
+      NAME 514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.86119533527697 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {032C41F0-B71C-41FF-831A-AE7BE9160982}
+      <SOURCE WAVE
+        FILE "Raw\514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav"
+      >
+    >
+    <ITEM
+      POSITION 304.41736288210842
+      SNAPOFFS 0
+      LENGTH 1.7367159620544
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {7D37D71E-28D3-48E4-AE43-1C4D658B87F8}
+      IID 421
+      NAME 514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.86119533527694 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11321EAC-E894-4115-A64D-84E1CAAF35E0}
+      <SOURCE WAVE
+        FILE "Raw\514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav"
+      >
+    >
+    <ITEM
+      POSITION 306.15407884417101
+      SNAPOFFS 0
+      LENGTH 5.26328403794543
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {8535E03E-89E5-4C73-A8A4-B3144B834AF1}
+      IID 421
+      NAME 514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 1.49565168522236
+      PLAYRATE 0.86119533527697 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {73606B70-98C2-4146-A2AB-874C23AAC301}
+      <SOURCE WAVE
+        FILE "Raw\514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav"
+      >
+    >
+    <ITEM
+      POSITION 331.39435082602955
+      SNAPOFFS 0
+      LENGTH 1.24464643947232
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {85ECF73E-2BBC-456C-AAC4-E22270C6477D}
+      IID 421
+      NAME 514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.86119533527694 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3C25666-9E39-46B0-85AF-0D7E0EC30993}
+      <SOURCE WAVE
+        FILE "Raw\514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav"
+      >
+    >
+    <ITEM
+      POSITION 333.30473838428941
+      SNAPOFFS 0
+      LENGTH 1.24464643947232
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {FD07972B-3A1E-49C9-94FC-9E8472AEC260}
+      IID 421
+      NAME 514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.86119533527694 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FBC22091-B00F-4FFF-BFD2-7AD53CAD6AD7}
+      <SOURCE WAVE
+        FILE "Raw\514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav"
+      >
+    >
+    <ITEM
+      POSITION 334.86778275013847
+      SNAPOFFS 0
+      LENGTH 1.24464643947238
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {867A52F6-0D42-405B-89AB-C1AF1C71FC3E}
+      IID 421
+      NAME 514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.86119533527694 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {24A2558F-1B0E-4FBA-AD39-13BF291FC004}
+      <SOURCE WAVE
+        FILE "Raw\514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav"
+      >
+    >
+    <ITEM
+      POSITION 336.69133451033849
+      SNAPOFFS 0
+      LENGTH 0.75257691684743
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {41406C90-9121-4901-8738-59055398C0DD}
+      IID 421
+      NAME 514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.86119533527694 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2529A9F7-1C40-4094-9BDC-3D955BC0CB00}
+      <SOURCE WAVE
+        FILE "Raw\514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav"
+      >
+    >
+    <ITEM
+      POSITION 337.76230935356267
+      SNAPOFFS 0
+      LENGTH 1.24464643947232
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {5FCD93CD-64B0-4E60-8483-09BD0DDEF732}
+      IID 421
+      NAME 514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.86119533527694 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7FCF5D19-4F04-4739-9ED5-514D95B3AE82}
+      <SOURCE WAVE
+        FILE "Raw\514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav"
+      >
+    >
+    <ITEM
+      POSITION 339.006955793011
+      SNAPOFFS 0
+      LENGTH 1.24464643947232
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {82579CE7-1AC6-4B33-94F8-CF8D9511D539}
+      IID 421
+      NAME 514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.86119533527694 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5AC3CDCB-9DEF-4DFD-9A29-EC1EC2462FC7}
+      <SOURCE WAVE
+        FILE "Raw\514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav"
+      >
+    >
+    <ITEM
+      POSITION 340.80156228714623
+      SNAPOFFS 0
+      LENGTH 0.49206952259379
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      BEAT 1
+      SEL 0
+      IGUID {761C4804-6436-40AD-B544-FE065264B307}
+      IID 421
+      NAME 514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 0.86119533527694 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25614C59-AB26-4698-B734-F93A6C8EEF61}
+      <SOURCE WAVE
+        FILE "Raw\514051__newlocknew__blaster-shot-4sytrusrsmpl2lrsmultiprcsngseries.wav"
+      >
+    >
+  >
+  <TRACK {911855E6-149F-4F88-BB6F-7873CEDB7CCE}
+    NAME [TOPIC]explosion
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.52901304635576 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {911855E6-149F-4F88-BB6F-7873CEDB7CCE}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 205.88174929210624
+      SNAPOFFS 0
+      LENGTH 0.53136054421768
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A2AD64DA-6B6B-40B4-9F1D-D2861617AD8D}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C6502EC4-AB79-4D4C-B514-EA07221E6486}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 211.79005556318214
+      SNAPOFFS 0
+      LENGTH 0.29856876476288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {47C10031-F8AB-485D-8FBA-31998EAC910D}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.53136054421769
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3BADE130-3756-49A8-9DA3-A21CF979090B}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 212.08862432794501
+      SNAPOFFS 0
+      LENGTH 0.53136054421765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8E7C6D6C-B23E-4AC2-A216-D35B1AE4CCE6}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {382AFED8-4AC4-44FC-B920-53922CF36E9B}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 242.83336376340594
+      SNAPOFFS 0
+      LENGTH 0.29856876476288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {744A8D96-092C-43B5-85A8-C0F3A45074A0}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.53136054421769
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ACDC8B54-3BA0-44E6-8321-3EA6FE30F676}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 243.13193252816882
+      SNAPOFFS 0
+      LENGTH 0.29856876476288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A27D76A2-64EC-45CF-A964-881F61E23593}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.53136054421769
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13367D05-67FF-4514-847D-E007C889DFBC}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 243.44593063429781
+      SNAPOFFS 0
+      LENGTH 0.53136054421765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {05EBF7F3-922B-4BB1-8F5B-7B49C732E4F2}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {418C87D3-9550-4D75-9162-3BD63EC7524F}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 253.89908788306639
+      SNAPOFFS 0
+      LENGTH 0.29856876476288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {932842F8-EB15-406B-A922-6636E0AB5D40}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.53136054421769
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B9F55CB9-2F83-4495-BC10-36A8918E43AB}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 254.19765664788429
+      SNAPOFFS 0
+      LENGTH 0.29856876476288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8ED1DC48-7582-4A8D-8FE0-4B13CC5D7379}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.53136054421769
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C324BBC6-81F3-47B7-9FD3-435165999154}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 254.49622541270219
+      SNAPOFFS 0
+      LENGTH 0.29856876476288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F17C63AC-3A8C-491A-976D-84D5ED838AF6}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.53136054421769
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C22B741-055D-427A-9833-13A1BDB8F44A}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 254.79479417740367
+      SNAPOFFS 0
+      LENGTH 0.29856876476288
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F2B6D75B-F3DD-45FC-BC50-CA4FF301663A}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.53136054421769
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C28C3534-16B2-432E-94B0-4483F146FB1B}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 255.09336294216655
+      SNAPOFFS 0
+      LENGTH 0.53136054421765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BE2DDBC3-E23C-4B7C-BB77-9F7865D60D2A}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A15D7B70-D3C3-46F3-ABDB-75B1BBC986E0}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 291.36446811710397
+      SNAPOFFS 0
+      LENGTH 0.53136054421765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B33DE98C-336B-48A6-A263-9D6D13DD6A60}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3772C28D-FBDA-4C7D-B4CD-FEC5CA5F77D7}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 292.94528584849553
+      SNAPOFFS 0
+      LENGTH 0.53136054421765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {265AF5AA-5652-4874-995E-B11640DEF64D}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A6AFB29A-4331-441A-B936-03937E416E7E}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 295.71171687843076
+      SNAPOFFS 0
+      LENGTH 0.5313605442177
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2AD5E5AF-B6B0-4F76-A91A-123E18C8A928}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4400A08-40AF-435D-8135-F78AA2F30AF8}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 298.3200661352268
+      SNAPOFFS 0
+      LENGTH 0.53136054421765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3374EB70-7485-4863-9DBD-C8BC5B20DAA7}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F792389B-F6DC-46CC-A005-A92E059E4046}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 301.16553805173157
+      SNAPOFFS 0
+      LENGTH 0.53136054421765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {81C47719-CAE6-4F46-BA09-C2C70ACA03CC}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A567F2E-E9A3-48FF-B1DB-13112F99C452}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 319.54254417915826
+      SNAPOFFS 0
+      LENGTH 0.5313605442177
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4046984E-C78A-44D1-8AE0-3DA383CBB51B}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2C436054-73A7-4437-9B54-8E332EC8B8C3}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 321.16288235383462
+      SNAPOFFS 0
+      LENGTH 0.53136054421765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3DFE5EB0-8CDA-4BA7-94DC-1FA2EA217B05}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DBFABF70-4C75-491F-891E-5EF1B82CF9AE}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 322.56585809044458
+      SNAPOFFS 0
+      LENGTH 0.53136054421759
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9CE6FC29-7874-4B80-9947-F9FE47A57656}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.00000000000011 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D19B2265-82E3-4979-9C0F-7023799655CC}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 323.9490736054122
+      SNAPOFFS 0
+      LENGTH 0.53136054421765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C0D705E7-4680-4FF8-9BE8-9AE453C0150E}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B270335-0E9D-4EE3-8955-1DA00BC2B9FA}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 325.43109022859176
+      SNAPOFFS 0
+      LENGTH 0.53136054421765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {816FA172-A6AA-4ADF-9FD4-1126C4C61BF5}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {44C908A3-D919-4EA5-8915-5D3CC444C091}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 326.59694330545608
+      SNAPOFFS 0
+      LENGTH 0.53136054421765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EBC24C2D-23EE-4CA2-AEA7-C97367A58C0B}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AB071230-6C46-4A57-AC89-52B3DFC210E5}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 328.17776103688459
+      SNAPOFFS 0
+      LENGTH 0.53136054421765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {12447AB3-84FC-43CE-9568-01AB33D659F2}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {78103F84-97F1-48BC-864C-547401305DBC}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 329.7783389899414
+      SNAPOFFS 0
+      LENGTH 0.53136054421759
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C302068B-25BF-4F7B-851E-1651E9C64852}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.00000000000011 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F26676D3-249B-4F2B-A420-F4A4593CCEBE}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 366.31498880670557
+      SNAPOFFS 0
+      LENGTH 0.53136054421776
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {37628C21-DFC5-45C9-8CFB-7845538E4D06}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B707DFD-5A07-45DF-8ADB-8174F92DC464}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 366.84634935092333
+      SNAPOFFS 0
+      LENGTH 0.5313605442177
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C94CD157-8D1F-46CC-843B-A919CB3A8304}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7FF51326-AEBB-4722-9543-E6CF2F2BAFF7}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 367.37770989514104
+      SNAPOFFS 0
+      LENGTH 0.53136054421788
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D2682FF4-C044-4DC8-A6D8-D1DE8F94ACA6}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {11E1F5C9-1DE8-4315-A55D-FFC57B970F16}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 367.90907043935891
+      SNAPOFFS 0
+      LENGTH 0.53136054421765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6C675613-B462-4614-8D84-E949450D9EB4}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {02FAACF4-F085-4323-9A58-8FE8A5002E44}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 368.44043098357656
+      SNAPOFFS 0
+      LENGTH 0.53136054421759
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7F5DD79D-BB50-425B-9983-FBC9BF266C48}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.00000000000011 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3FA3EC0E-659E-440E-A60C-EC9FADB07810}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 368.97179152779415
+      SNAPOFFS 0
+      LENGTH 0.5313605442177
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9C597898-65E4-4C40-A122-A7D2ED43C897}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {63E6B40B-70A8-4FBF-BBC9-440EFAF182A2}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 379.38299163268562
+      SNAPOFFS 0
+      LENGTH 0.53136054421776
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E66DAB0F-93FF-40C6-9617-82B340D823A3}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9455DD96-A4F6-4E39-B069-CC4D1D0246BA}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 379.91435217694993
+      SNAPOFFS 0
+      LENGTH 0.53136054421776
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5A7343DF-75E1-4D0B-A1DE-F22F80B7DC36}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6658BF07-1079-48CE-9F34-F769E8A15E7A}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 380.44571272121425
+      SNAPOFFS 0
+      LENGTH 0.53136054421776
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8F2B5E86-BDAF-4D6D-93B3-6C88F1DAA597}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {610084C0-D5C1-4F9C-B502-376F983567F2}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 380.97707326536215
+      SNAPOFFS 0
+      LENGTH 0.53136054421776
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {85E40476-97A7-463A-92F7-5396BA925313}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2180B7AD-27F3-4D69-AE4E-45016E6CF040}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 381.50843380962647
+      SNAPOFFS 0
+      LENGTH 0.53136054421776
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B1610F1E-798C-4319-A5A0-96EB6F374CB5}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.00000000000011 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7DF61689-0BDC-4015-A0E2-46D8E3718537}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 382.03979435377437
+      SNAPOFFS 0
+      LENGTH 0.53136054421776
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {35F421B0-CB34-43A2-86E8-966822F85CD4}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {47EEFEE1-C06E-4F43-958C-5E4D400DC4D3}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 393.34697201347444
+      SNAPOFFS 0
+      LENGTH 0.53136054421776
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7F99ABB8-B24C-4167-9B77-9DF2DC934BE7}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6E1DB40E-D0C1-423E-9341-6326DB0FA9B4}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 393.87833255773876
+      SNAPOFFS 0
+      LENGTH 0.5313605442177
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B1C56519-7828-4410-A748-DA01750A81C1}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8E4BEA6B-26E1-483F-9BED-DD892C055CF7}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 394.40969310188666
+      SNAPOFFS 0
+      LENGTH 0.53136054421788
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {65429112-61D7-4111-8DE7-8B0ECF621020}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD794B7C-EE89-4FAA-B807-DAEC90041F40}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 394.94105364615098
+      SNAPOFFS 0
+      LENGTH 0.53136054421765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AD8BE547-3E5E-408D-9A41-601762F50C37}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B2E0F2AA-DF3C-4ACC-A741-BBC681CC33F6}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 395.47241419041529
+      SNAPOFFS 0
+      LENGTH 0.53136054421759
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CAD7F75F-DB42-4EC0-8B8E-7C716C89DD9B}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.00000000000011 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C8B7FC7F-7E62-4A00-8EC3-97D79EF69472}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 396.00377473456319
+      SNAPOFFS 0
+      LENGTH 0.5313605442177
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4C33282B-56BA-4C6A-B2C9-131A6C8462BE}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {85BF01AF-0193-4563-9FC0-08E40B244173}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 401.36962200026028
+      SNAPOFFS 0
+      LENGTH 0.53136054421776
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {722C43D3-744F-4ED3-9CF9-E2490306F358}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25907B7F-90FB-4DEB-ACFB-B980DEF8FBD5}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 401.9009825445246
+      SNAPOFFS 0
+      LENGTH 0.5313605442177
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CD67C7B5-DB30-467D-B74D-1D420BAD5E5D}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {403C47A2-AE6B-4610-91B5-5220BDD1622C}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 402.43234308878891
+      SNAPOFFS 0
+      LENGTH 0.53136054421788
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A5AF0303-2AA8-47CB-8186-39A855C30A8B}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DE3B4C8C-F117-4953-8743-363EDD959A3D}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 402.96370363293681
+      SNAPOFFS 0
+      LENGTH 0.53136054421765
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A1AD51FA-D101-412B-92A0-ABED4217EAB9}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3C7082A8-E472-4512-8CB3-332056936830}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 403.49506417720113
+      SNAPOFFS 0
+      LENGTH 0.53136054421759
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E33406B4-6688-4E45-B347-4D0708F81BE6}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1.00000000000011 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EAC8C909-B3EA-40D2-83ED-E98AF2E5432E}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+    <ITEM
+      POSITION 404.02642472134903
+      SNAPOFFS 0
+      LENGTH 0.5313605442177
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {079B8EE0-E47B-4BF4-9760-455D903BFE3B}
+      IID 258
+      NAME 347168__davidsraba__explosion-sound.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C9400840-1046-4FC6-B338-09F3830F4176}
+      <SOURCE WAVE
+        FILE "Raw\347168__davidsraba__explosion-sound.wav"
+      >
+    >
+  >
+  <TRACK {5DA2A803-E35B-41DB-A8F6-C5E928446B30}
+    NAME [TOPIC]chainsaw
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.23783287923456 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5DA2A803-E35B-41DB-A8F6-C5E928446B30}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 368.8040338291118
+      SNAPOFFS 0
+      LENGTH 0.93419845504087
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EF5548E1-2B02-4C4C-B991-936077AD7FAA}
+      IID 439
+      NAME 65997__doobit__chainsaw.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F85D0E16-F468-4FB3-B2CD-7E1A34F309C9}
+      <SOURCE WAVE
+        FILE "Raw\65997__doobit__chainsaw.wav"
+      >
+    >
+    <ITEM
+      POSITION 369.73823228415262
+      SNAPOFFS 0
+      LENGTH 2.01436541868202
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D0D80CD1-B2FC-4BB4-A4E6-BBC23EFE2ED7}
+      IID 439
+      NAME 65997__doobit__chainsaw.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.93419845504087
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {25E38295-0BB6-4D22-A430-C3EE88C226EE}
+      <SOURCE WAVE
+        FILE "Raw\65997__doobit__chainsaw.wav"
+      >
+    >
+    <ITEM
+      POSITION 371.75259770283463
+      SNAPOFFS 0
+      LENGTH 1.05097326192094
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C7959A9D-A5C7-4A0F-9D92-99799E10DA52}
+      IID 439
+      NAME 65997__doobit__chainsaw.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B0CA9D87-32B5-4ED3-9AA2-13E3A838968D}
+      <SOURCE WAVE
+        FILE "Raw\65997__doobit__chainsaw.wav"
+      >
+      TAKE SEL
+      NAME "65997__doobit__chainsaw reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12FFEEC5-6CAE-49CB-9924-8DF20819C961}
+      <SOURCE WAVE
+        FILE "Raw\65997__doobit__chainsaw reversed 001.wav"
+      >
+    >
+    <ITEM
+      POSITION 381.47410037554801
+      SNAPOFFS 0
+      LENGTH 0.93419845504081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E4EECD9F-FA8B-4611-B2AD-BFF5F64A94FD}
+      IID 439
+      NAME 65997__doobit__chainsaw.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {91039816-1AD0-4DCB-B797-4160351FB419}
+      <SOURCE WAVE
+        FILE "Raw\65997__doobit__chainsaw.wav"
+      >
+    >
+    <ITEM
+      POSITION 382.40829883061815
+      SNAPOFFS 0
+      LENGTH 2.01436541868202
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {947BF771-8A3D-4F9E-AEA6-9BDDA1D7884E}
+      IID 439
+      NAME 65997__doobit__chainsaw.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0.93419845504087
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3664B712-3973-40BA-B0B0-240BB2CC57A5}
+      <SOURCE WAVE
+        FILE "Raw\65997__doobit__chainsaw.wav"
+      >
+    >
+    <ITEM
+      POSITION 384.42266424931586
+      SNAPOFFS 0
+      LENGTH 0.78822994645157
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {24EE3613-ECC5-4E83-853F-C7BF199FCBED}
+      IID 439
+      NAME 65997__doobit__chainsaw.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {04648C19-D177-455B-89C0-046897CC1D2F}
+      <SOURCE WAVE
+        FILE "Raw\65997__doobit__chainsaw.wav"
+      >
+      TAKE
+      NAME "65997__doobit__chainsaw reversed 001.wav"
+      TAKEVOLPAN 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FCFB0CEE-CF4E-42C6-85BE-0FF204A43A8F}
+      <SOURCE WAVE
+        FILE "Raw\65997__doobit__chainsaw reversed 001.wav"
+      >
+    >
+  >
+  <TRACK {FCFAAA74-D9DF-4715-982F-9C49C6564B3B}
+    NAME [ATOPIC]pickcoin
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.16956829167787 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FCFAAA74-D9DF-4715-982F-9C49C6564B3B}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 62.83197572057102
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {AE1A9EC5-6209-45DF-86C4-E2E81ADA512F}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F2EADF59-01DD-4408-8003-A7E0AC1BEB16}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 63.10172856914701
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {65F1A7A0-13D8-45BC-BBA5-56E46683855B}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4565A684-7114-412A-9A7E-1D2815BD9191}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 64.12473028304521
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E224E36B-4AE6-4C0F-9758-F93F7C80533F}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {90C65BFC-FC9C-4E0F-91B0-06F2EF220241}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 64.39448313158937
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1DD96323-103C-4079-BE33-9CA889C12B77}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A56637E-AF0B-4AF3-9252-5C7B36252343}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 64.66423598024994
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {649B32F0-8EAA-4BBB-938D-91CD160681BB}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9D3198AE-5827-4367-8BE6-0AE9950C39FB}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 64.9339888287941
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E39B0ADA-45A1-4BCD-AF2A-F781F9AA4BD5}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1C237699-2DD9-496E-A02A-F5272A4EFA67}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 65.20374167733826
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {024718E5-7D21-4330-8D4A-1F2FD083FACE}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {842EDB24-764E-4621-AF05-B860FE84692C}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 65.47349452588242
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5DE187F7-7990-4A42-9985-E63EC70E5147}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {330A0BFD-DB43-4281-815D-20D22C94B273}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 65.74324737445841
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2B7A84C6-87AE-42A9-BC0C-BBE0002071D3}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {105A0416-9ECF-414A-A57D-01D92727B42D}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 66.0130002230344
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B156D5EE-E8BB-4635-9AC6-F664EB0A04F2}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D68CDAFD-FDDD-49E5-8576-E8B6ACB869E3}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 66.28275307161039
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 0.02694573533881 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1DFD9880-820E-44D8-A0A6-1D9D6A10E46C}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DFCC41FE-7DE1-4DB4-AFAE-74864D553522}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 66.52556018484756
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.02694573533881 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {75F28BFC-6D27-4875-A314-AC501F5C3008}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8B378F57-4D97-41AC-A875-6BB7589A6C9C}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 66.79531303339172
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {54489AF2-0739-4AFE-B577-FE67913F1ABF}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1F2910B2-435D-4713-A546-079E80CF23B4}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 68.90364394360222
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7745AA6D-D1B0-4AC0-852B-907718226E2B}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {532D3516-1FB3-465A-B7B4-EB53027F7542}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 69.17339679214638
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EECECE5D-F4AE-4ABD-8E7C-0851374A8E38}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C62290D9-EF61-4628-AEBC-833E21957C64}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 69.7613656524336
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E77B0AF3-63B9-45D1-A636-6B209557F05E}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {95BFE448-98D1-473D-BF0B-15A4DF335D91}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 70.33318012498785
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F98159B4-90BA-4073-AD75-CD0550000AD7}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D3D6FEC3-EA59-4EC5-84F7-831D107BAE77}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 70.8871253952384
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {41B0F97A-ACB0-41F3-B303-B4FD4883A618}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C462FAA0-359B-47DB-B850-D4E74435E6EF}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 114.66667095072712
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {84CB04B0-D214-4121-A321-5E8290EBE596}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA8F8963-E7A5-4729-8D5C-919B92F0D832}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 114.93642379925586
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {37B5F289-6AA1-461B-A36B-C2EA399EA428}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {18D0E5C6-F8C8-4311-988D-E915D8805FB8}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 115.20617664791644
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {68543B63-C241-485E-AC90-A820DC5D4020}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E97B6EC7-AFF3-4C23-88D0-4FB1358D1586}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 115.47592949646059
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B01D0442-58F0-41C5-A232-772D74E84F25}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {21085BCF-5E98-4A2B-9866-F5330909B26B}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 115.74568234500475
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {74C40564-6029-4429-9D88-9D444E357D0A}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BFE68E76-FE42-4E8A-9B9A-95301AFE772C}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 120.25973126047757
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3B5DC380-7F94-438F-997B-4E30CBC14EEE}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FBFB14E7-8594-4AD2-9B64-0CB45F360D4B}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 120.52948410902172
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {689A1374-B032-4C3D-B96F-2AF5230B4DD3}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4F5255B9-541C-4F14-B156-9A605FC89C13}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 120.79923695756588
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {272E4E61-C8A4-4BC0-8890-3CDBC1DFECDD}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B82772D5-140C-46CA-96CF-E5EBDB0E4558}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 121.06898980622645
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {18254484-718A-4FBF-B224-B26D012673AE}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {54008E88-9175-44D5-B717-2A7413F85636}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 121.33874265477061
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {932C631D-F92B-47B5-B9D2-D8D4C3F6D677}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D01DA110-9258-4EF1-8A26-B25CEE41FB4C}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 121.60849550331477
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5B8E39C4-3F13-4077-BA04-E1200A72B6C4}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FC35A0C1-782E-4C95-BC9A-C2CB68402CA7}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 121.87824835197534
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F418C095-96BD-4404-9D14-925D0C8D81D3}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AD497443-864C-4D30-983C-E147F5B47B0E}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 122.1480012005195
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0947AEFD-719C-4C76-B625-BCDFC045E02A}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9D70BC6D-0FF8-4600-A51B-107694090BEA}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 125.04867746820673
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {64123705-5CEE-4D81-A635-0F554493DA0F}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4A5B5499-C94E-403A-8C5B-0A9E9BC9C5F3}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 125.31843031675089
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {804B03C9-6FB5-4021-9DE0-0160CE5086D0}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {94E5968E-F966-4A94-8C95-3D1309A2B8C8}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 125.58818316529505
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B24C7E6F-ACB3-4E50-83B8-E15247FF5013}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {27693B39-2CF8-4C68-B8E7-25A2271FE494}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 145.20513762593245
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5DB096FB-EE45-4941-B0A6-B05AAFE43039}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {067DE21A-0E6C-42FB-8F01-FFB3BE2B2B51}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 146.33089736878674
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {028318F5-6BCD-4008-9DD9-AEFBC76846AA}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {132EA8AF-B80F-4E6F-BFDF-0C3796E2844E}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 147.49239551613573
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3D97A9E5-7433-4587-8E22-AEB55277FAD4}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E1D48FA5-C079-4FC8-9490-1825F211448F}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 148.42159403408749
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0A51CBE5-C272-4D98-BF97-9A26B964656F}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0589FDF3-1CCE-4F4D-BE97-EFB3A3E35F45}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 149.4401385633366
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6DB47A74-5C74-41DE-ABBD-773A3079B389}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9B50B018-50C5-4A07-95F7-9AA1A84E8908}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 150.11840381726952
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {69F7E13F-A4EE-48B7-9914-D08B3264A4C0}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CBF170A2-1ED0-4DDF-8333-E3B26702F263}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 150.79025135311093
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C52DB181-BBE1-4DB3-87A9-0E5239B3C2D9}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A461EC94-B920-4264-BED6-F927373A9D15}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 151.52137955387951
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F3955965-1231-4ABD-A430-EB1A6797D939}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B7481EF1-7B3F-45BA-836E-FE1B83B0744C}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 152.17346686811652
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {646D4226-C0F9-4654-B425-9BF76BA136AB}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1317D77D-A074-4DF3-969E-984CF7742F33}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 159.16858532943297
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1508C2DF-5D78-4AB1-B05D-3FB758BE1DFB}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {19D302F0-43B6-4C2B-BF59-36B7D3434F0C}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 159.43833817809355
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6DC96E20-1ACC-4612-AC84-6A37C0C7815D}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {04FB1371-5DF3-4388-9641-BE57B5A2592E}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 191.43702727148775
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E04B576D-87C1-4890-963F-DEA98D209F6A}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {544B944F-08F5-47DA-9598-738E2E2C11DE}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 191.70678012014832
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2C81B1A8-F6A2-47D1-9883-43F5B63C5E94}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C21BC491-B7EF-4F74-8E32-E4CC5CFA7F38}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 192.46455879695714
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {FCE5C1C6-764F-4758-8089-E4D66F894234}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD69ED64-5DA1-4EB2-A7E6-C1E1F2574931}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 195.07290805375669
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {08A50C52-4195-46DF-9138-161CFA502DFC}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A292247F-B895-4F15-B56D-DA20C050C545}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 196.47588379029185
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F20B468E-181C-49E6-9380-656B2BBB8147}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB819975-A931-4E2C-B7FE-12369501CD52}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 198.31358440306923
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5CABD4CC-886A-4DAC-AF73-2FA98824D2B4}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0173FBCF-D7C4-44FB-908E-6B5746BBCF54}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 199.22255459861935
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {14A84CD6-9793-4F31-8056-9E4D1E593D2B}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F79E0E1F-4AF7-4F2A-8F81-29C632AC9A4C}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 200.26984634566625
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {885EEAB6-F270-4970-A2FE-FFBDD00A029C}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13B026B0-CCA3-49B0-AAFB-3DEBA5F6D63C}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 203.214119370383
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {56238DB6-8EFA-474B-BEDB-7228647D3FA4}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8547A389-741A-4E1F-BA57-3506E74F4E47}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 242.57648088203248
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C90D8B8B-FEB4-48A5-B12A-7B90F87B08C9}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EF22F26C-9F17-496B-ABAA-202D4A6D2F0E}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 242.84623373057664
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A31EA356-DD28-43C0-B759-F9AE997A4A69}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C28BB117-E2F6-47D8-B143-1438630E1B2C}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 246.66684676206205
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9115ABB4-AC8E-44E6-A5E3-8BC7062E0D50}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CEAF5E4E-3CC1-4AC2-B1E3-A1C78089751C}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 246.93659961060621
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {363EF165-DC83-48B4-9E5E-65B4FAAF5F96}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3B38CD7E-6173-4A57-A413-544C017A80BC}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 249.94704355462454
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1D066843-2520-422D-9882-4E36A2EDF08B}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {76074B4D-4DA4-4B41-BE05-44C790FF5389}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 250.2167964031687
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D4A2E16B-7BC0-4B69-B7AE-BD3EE58FAB89}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AA493BB7-5239-4253-8815-39CAE61142EC}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 250.48654925182927
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1.1 0 0.01884968011564 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0795B6BC-FE60-4853-8B7F-908E5EAFC6B2}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {990A35BE-9138-43D7-8333-83126E2774FE}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 250.73745242028963
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0 0.01884968011564 1 1 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8B02A506-65DF-4D73-9038-E58D60A278CE}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2A73AAD1-6866-47B9-BD20-8DB2E5BA28AC}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 251.00720526886562
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B2FBAF4C-822B-475C-BDD7-BC708038E1D6}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2A2661F3-3C19-4CFC-B06F-B006797D30D7}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 251.27695811752619
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F3644265-68A0-44CD-819F-0D625AB54D7D}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC517EC2-E898-42D3-A002-7B1626AF5157}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 261.26965055573748
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A58A53EA-EC5D-4D22-AE25-F74E46176DAA}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {66540BBB-26A6-462D-A9D6-DBB967618C5D}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 261.54629365873097
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2411A5FD-EC6D-482F-AA8F-D8B729AB3C67}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {46236D95-1B87-43DE-A68E-D6AE155EF63A}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 261.84958723781625
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CB7B85F7-682D-4B01-BB87-BB88141D61F3}
+      IID 243
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {381AF63E-313C-42E8-BFF9-D357BDCF4FB1}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 262.11934008636041
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4D248E7B-88CF-465F-B288-5C20486887B8}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A83D74B-C17D-4D5B-9150-436CE239FAE6}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 262.38909293502098
+      SNAPOFFS 0
+      LENGTH 0.26975284857599
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DDB4895E-DB4F-4441-AC79-AC7541AFA7B1}
+      IID 164
+      NAME carrotnom-92106.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AEE9C742-5C2D-4B63-BCFC-B4034E2B8A89}
+      <SOURCE MP3
+        FILE "Raw\carrotnom-92106.mp3" 1
+      >
+    >
+  >
+  <TRACK {C096683A-1AFC-4905-BB90-AC44EEE06A68}
+    NAME [ATOPIC]digging
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 0.11050517374163 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {C096683A-1AFC-4905-BB90-AC44EEE06A68}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 170.59752347355243
+      SNAPOFFS 0
+      LENGTH 0.26431665875424
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5E8194CB-39A8-40F2-AC00-55520A716CEC}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C0E00F91-BC22-495A-AE61-231609E3D3CE}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 170.86184013230667
+      SNAPOFFS 0
+      LENGTH 0.26705927784076
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C0F05271-7180-4BCE-9062-ACA8FDEFE190}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C56F0833-030F-4BAC-88BB-9A30084B4EB1}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 171.12889941014743
+      SNAPOFFS 0
+      LENGTH 0.25092213558668
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B29DE696-2837-46BD-97A6-2D2DC038A80E}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {86F542CE-F4BF-42AF-B85A-341A1C098392}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 171.37982154567726
+      SNAPOFFS 0
+      LENGTH 0.25092213558668
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2259FA3D-AD05-46C5-921C-658F0D45A756}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF47FFEE-3C09-41D1-87FA-921FAAB0E086}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 171.63074368133675
+      SNAPOFFS 0
+      LENGTH 0.25092213558668
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BBC6B32D-A573-4D45-BC7E-CA45152B1823}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3DD15230-FA52-440B-A6C6-BDEEAA51D1A2}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 171.88166581687983
+      SNAPOFFS 0
+      LENGTH 0.25092213558668
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3658463C-E211-471E-B836-1A42C2A4CD8B}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0DB4B65A-15E8-4620-A14F-7363E27CEAB7}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 172.13258795253932
+      SNAPOFFS 0
+      LENGTH 0.25092213558671
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8FD7D244-99BD-48B8-B1D3-E2F12C6F769B}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C182BAAB-04BE-4E1F-8BB4-1AC906E82A32}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 172.3835100880824
+      SNAPOFFS 0
+      LENGTH 0.25092213558671
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E618A39B-A346-4A19-949C-7444CDD52887}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9AA3480F-92E4-40C5-9EEF-902386B2B495}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 172.6344322237419
+      SNAPOFFS 0
+      LENGTH 0.25092213558671
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F1493807-5D02-4240-99A7-A34729C910D6}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4AC67EE8-19DD-4DED-A888-0DA83409649D}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 184.44704044036806
+      SNAPOFFS 0
+      LENGTH 0.26431665875427
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E87A7A72-7DC8-46F0-8649-A6FD9A2B97C2}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EC888EDC-82C8-4E6D-AD8F-0AE5462373C1}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 184.71135709920671
+      SNAPOFFS 0
+      LENGTH 0.26705927784081
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {831E5A7D-11F6-418B-911D-37CBDE2E3FFB}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {01E65619-5679-4DFE-B71D-3ABDE0D65CD0}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 184.97841637694981
+      SNAPOFFS 0
+      LENGTH 0.25092213558665
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D8BB6340-EF35-4C78-9F32-2D16DE57E4B0}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DF7380FD-77D5-46D0-9DAA-E80C0916B1E6}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 185.22933851249289
+      SNAPOFFS 0
+      LENGTH 0.25092213558665
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {75D09E90-7F31-414C-AC68-F1270EC6D184}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {320949A2-7BA4-497E-BB7A-217A0283AEF2}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 185.48026064815238
+      SNAPOFFS 0
+      LENGTH 0.25092213558665
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {247481F5-3B7C-4C06-B832-EAFE0FA9BD8D}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D0496922-906A-4913-9C8B-FF13582F8842}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 185.73118278369546
+      SNAPOFFS 0
+      LENGTH 0.25092213558665
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {89D85E19-139B-4382-AB7A-8B5591DAD54C}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {18212E5F-3A67-4202-8E18-B68C62079F04}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 185.98210491935495
+      SNAPOFFS 0
+      LENGTH 0.25092213558673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {16483ADC-8512-4369-83FD-BE5AA80B62F5}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DFF63960-4CFD-45F0-8C7A-C95EF84661ED}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 186.23302705489803
+      SNAPOFFS 0
+      LENGTH 0.25092213558673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {15787728-1DC6-40AB-BEE8-07643B5B07BE}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3AE21114-60F8-4097-885C-387301645CC3}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 186.48394919055752
+      SNAPOFFS 0
+      LENGTH 0.25092213558673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D8A28DA9-5F30-48BD-AE31-42669D90A657}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {49DAC81E-C756-4045-BB00-CDA302CF3B28}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 188.66271245731787
+      SNAPOFFS 0
+      LENGTH 0.26431665875424
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E3E75A54-EB03-42D4-A65C-1A685962CA76}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7B2F706E-EF86-4459-B415-3C196C6CDA95}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 188.92702911615652
+      SNAPOFFS 0
+      LENGTH 0.26705927784079
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4C3BC10D-97FF-4617-98DA-FC35FB641530}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FA15A884-6F5B-4533-991F-B3134A72FA6F}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 189.19408839401603
+      SNAPOFFS 0
+      LENGTH 0.25092213558665
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4DF5EA0D-DCF7-4A26-AD7A-5645EC50EB94}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E3CC14EB-6773-4134-8B98-0951C82F6A00}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 189.4450105294427
+      SNAPOFFS 0
+      LENGTH 0.25092213558665
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0F4F6F61-1F4F-4EAB-A2DA-048ABA2B10DB}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {ED75048C-8A56-42A2-8906-CAEBEEEB0870}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 189.69593266510219
+      SNAPOFFS 0
+      LENGTH 0.25092213558665
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {88456D46-0333-496D-BCFE-BB776BD5020A}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {04973DF1-AAF1-4830-BCA3-1541E93ED4DB}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 189.94685480064527
+      SNAPOFFS 0
+      LENGTH 0.25092213558665
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5550B539-B6B1-4628-AF46-E9DD0F61234A}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6A013571-7F76-4505-BF33-599A10A411DE}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 190.19777693630476
+      SNAPOFFS 0
+      LENGTH 0.25092213558673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {33BEEEAC-44E3-48D2-A6C0-01F63A17F130}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C6F80770-5BA1-48DC-86A4-01FCDB49AFDF}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 190.44869907184784
+      SNAPOFFS 0
+      LENGTH 0.25092213558673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C5C760A5-AB80-4EE6-B9E6-8BF5FD29255D}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D1BBB616-09DC-4C95-95FD-A4A9CC822F03}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+    <ITEM
+      POSITION 190.69962120750733
+      SNAPOFFS 0
+      LENGTH 0.25092213558673
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B360F03F-8946-43F2-8A06-C6A635B7AACD}
+      IID 357
+      NAME 477393__nuff3__steps-dirt-falling_1a.ogg
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AE303FEB-ED01-4948-914E-920A29719185}
+      <SOURCE VORBIS
+        FILE "Raw\477393__nuff3__steps-dirt-falling_1a.ogg"
+      >
+    >
+  >
+>
