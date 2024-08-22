@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b5ae967b-96f2-412f-b777-d83207852f8f}">
+		<property name="assetPath">
+			<value>65997__doobit__chainsaw.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>7.0403541666666669</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{db10f3f6-c1d7-49de-bc2c-c50bb0c39a94}</destination>
+		</relationship>
+	</object>
+</objects>

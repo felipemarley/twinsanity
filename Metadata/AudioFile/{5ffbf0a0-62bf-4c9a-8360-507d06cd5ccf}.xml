@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{5ffbf0a0-62bf-4c9a-8360-507d06cd5ccf}">
+		<property name="assetPath">
+			<value>347168__davidsraba__explosion-sound.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.53136054421768708</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{db10f3f6-c1d7-49de-bc2c-c50bb0c39a94}</destination>
+		</relationship>
+	</object>
+</objects>
