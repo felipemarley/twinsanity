@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{b2a60208-4caa-45b1-a492-00bb71f8f78f}">
+		<property name="name">
+			<value>stop_shoot</value>
+		</property>
+		<relationship name="folder">
+			<destination>{a3a8e1a6-5fc2-45e8-a739-c041977ed4ef}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{65cad654-ec75-4889-8984-7b08a4c2cc3c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{65cad654-ec75-4889-8984-7b08a4c2cc3c}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

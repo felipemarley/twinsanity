@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{daa14a8a-dbe8-46ec-9fe0-ae690c05de8f}">
-		<property name="assetPath">
-			<value>TwinsanityAudio.wav</value>
-		</property>
+		<property name="assetPath" />
 		<property name="isStreaming">
 			<value>true</value>
 		</property>
