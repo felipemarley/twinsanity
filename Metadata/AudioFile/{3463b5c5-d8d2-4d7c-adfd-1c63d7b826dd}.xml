@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{7365aa21-c63f-4acb-ac0a-9a368a15b06e}">
+	<object class="AudioFile" id="{3463b5c5-d8d2-4d7c-adfd-1c63d7b826dd}">
 		<property name="assetPath">
-			<value>Twinsanity_stems_[INTER]menu_option.wav</value>
-		</property>
-		<property name="isStreaming">
-			<value>true</value>
+			<value>477391__nuff3__steps-dirt_1b.ogg</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
-			<value>2</value>
+			<value>1</value>
 		</property>
 		<property name="length">
-			<value>442.13841269841271</value>
+			<value>0.37485260770975054</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{db10f3f6-c1d7-49de-bc2c-c50bb0c39a94}</destination>
