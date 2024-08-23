@@ -141,7 +141,11 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{9b17fc8e-9a13-456e-8b26-6776b49449d9}" />
-	<object class="EventCondition" id="{6d3e7036-0735-4632-9b27-d9fb14f34353}" />
+	<object class="EventCondition" id="{6d3e7036-0735-4632-9b27-d9fb14f34353}">
+		<property name="eventState">
+			<value>1</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{3a5ce15f-61d6-47c5-a361-481f4d60d385}" />
 	<object class="SpatialiserEffect" id="{6b342857-9513-43cf-a6df-15b6556e655e}" />
 	<object class="MixerBusFader" id="{90d88ee8-ecda-4847-b5fc-c6818135d841}" />

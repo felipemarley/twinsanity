@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{f57f355c-224f-4422-af4a-f7d04d72ff43}">
+		<property name="assetPath">
+			<value>152575__usinggarageband__tada2.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.1159183673469388</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{db10f3f6-c1d7-49de-bc2c-c50bb0c39a94}</destination>
+		</relationship>
+	</object>
+</objects>

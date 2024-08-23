@@ -201,7 +201,11 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{e49503c7-f6f3-4d74-a9d4-178eaa6a67df}" />
-	<object class="EventCondition" id="{59eba0ac-93a0-4d10-9c8b-30ecaae29c2c}" />
+	<object class="EventCondition" id="{59eba0ac-93a0-4d10-9c8b-30ecaae29c2c}">
+		<property name="eventState">
+			<value>1</value>
+		</property>
+	</object>
 	<object class="TransitionTimeline" id="{44d47a9c-a5a9-4fe7-abf0-eb9535805423}">
 		<property name="length">
 			<value>0.5</value>
